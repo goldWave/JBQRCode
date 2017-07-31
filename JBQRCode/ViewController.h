@@ -1,14 +1,17 @@
 //
 //  ViewController.h
-//  JBQRCode
+//  QRCodeDemo
 //
-//  Created by jimbo on 2017/7/31.
+//  Created by jimbo on 2017/7/21.
 //  Copyright © 2017年 naver. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
+
+
 @interface ViewController : UIViewController
+
 
 
 @end
